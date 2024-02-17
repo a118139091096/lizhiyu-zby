@@ -8,3 +8,4 @@ CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_6785
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw3966154438_-1330575080/ott.mobaibox.com/PLTV/3/224/3221226993/index.m3u8?icpid=3&RTS=1674379786&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1528922594_677066330/ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8?icpid=3&RTS=1674385939&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw2051341477_1194519214/ott.mobaibox.com/PLTV/3/224/3221227207/index.m3u8?icpid=3&RTS=1674386461&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
+CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw1925564042_904960692/ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8?icpid=3&RTS=1674386335&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
