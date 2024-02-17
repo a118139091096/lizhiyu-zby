@@ -369,7 +369,7 @@ CETV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001308/in
 太白电视台,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002881/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 眉县新闻综合,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002882/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 子洲电视台,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002915/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 嘉佳卡通,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001310/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山东教育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
