@@ -129,7 +129,8 @@ LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001417/ind
 陕西新闻,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 洋县电视台1,http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
 佛坪电视台,http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-
+LBRTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001268/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+LYTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV2,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV3,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
