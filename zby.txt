@@ -3226,7 +3226,6 @@ CCTV2,http://39.134.66.110/PLTV/88888888/224/3221225599/index.m3u8
 北京卫视,http://39.134.66.110/PLTV/88888888/224/3221225670/index.m3u8
 CCTV14,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV9,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
-纪实人文,http://39.134.66.110/PLTV/88888888/224/3221225673/index.m3u8
 北京卫视,http://39.134.66.110/PLTV/88888888/224/3221225678/index.m3u8
 CCTV10,http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
 东北热剧,http://39.134.66.110/PLTV/88888888/224/3221225679/index.m3u8
@@ -3407,7 +3406,6 @@ NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
@@ -3450,10 +3448,5 @@ CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/ind
 CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
-哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
-杨凌-1台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226373/index.m3u8
 
 
